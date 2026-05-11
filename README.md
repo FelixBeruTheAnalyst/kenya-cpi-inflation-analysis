@@ -1,5 +1,17 @@
-##  Interactive Dashboard
-Explore the projects in one interactive dashboard: [ [https://kenya-maternal-health-anc-analysis-oasrbxen82vgwacmq4vbny.streamlit.app/](https://kenya-cpi-inflation-analysis-l28f5kfd6qypapa6jrkazq.streamlit.app/#kenya-cpi-and-inflation-dashboard)
+## 📊 Interactive Dashboards
+
+### 🌐 Live Streamlit Dashboard
+👉 **[Open Live Web Dashboard] (https://kenya-cpi-inflation-analysis-l28f5kfd6qypapa6jrkazq.streamlit.app/)**
+
+Fully interactive 5-page web app — no installation needed.
+Explore all indicators, filter by division and commodity,
+and view trend analysis directly in your browser.
+
+### 💼 Power BI Dashboard
+📥 **[Download Power BI Dashboard](Kenya_CPI_Inflation_Dashboard.pbix)**
+
+5-page Power BI dashboard for offline exploration.
+*Requires Power BI Desktop — free at powerbi.microsoft.com*
 # 🇰🇪 Kenya Consumer Price Index (CPI) & Inflation Analysis
 ## March 2025 – March 2026
 
