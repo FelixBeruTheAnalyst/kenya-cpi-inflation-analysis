@@ -168,4 +168,4 @@ A fully interactive 5-page Power BI dashboard covering:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://www.linkedin.com/in/felix-beru-04b905280)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/FelixBeruTheAnalyst)
-[![Dashboard](https://kenya-cpi-inflation-analysis-l28f5kfd6qypapa6jrkazq.streamlit.app/#kenya-cpi-and-inflation-dashboard)
+[![Dashboard](https://kenya-cpi-inflation-analysis-l28f5kfd6qypapa6jrkazq.streamlit.app/)
