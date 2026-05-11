@@ -134,7 +134,22 @@ calculation methodology.
 | `kenya_cpi_core_noncore_chart.png` | Core vs non-core trend chart |
 | `kenya_cpi_weighted_chart.png` | Weighted contribution chart |
 
----
+## 📊 Interactive Dashboards
+
+### Power BI Dashboard
+📥 **[Download Power BI Dashboard](Kenya_CPI_Inflation_Dashboard.pbix)**
+
+A fully interactive 5-page Power BI dashboard covering:
+- Executive Summary — key inflation metrics
+- Inflation by Division — 13 COICOP divisions
+- Commodity Prices — 17 key commodities
+- Core vs Non-Core Trend — 13 month analysis
+- Weighted Impact — contribution analysis
+
+*Requires Power BI Desktop to open — free download at powerbi.microsoft.com*
+
+### Streamlit Web Dashboard
+🌐 **Coming soon — live interactive web app**
 
 ## Author
 **Felix Beru Tsinzole** | Financial & Data Analyst | Nairobi, Kenya
