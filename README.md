@@ -3,7 +3,7 @@
 ### 🌐 Live Streamlit Dashboard
 👉 **[Open Live Web Dashboard] (https://kenya-cpi-inflation-analysis-l28f5kfd6qypapa6jrkazq.streamlit.app/)**
 
-Fully interactive 5-page web app — no installation needed.
+Fully interactive 5-page web app no installation needed.
 Explore all indicators, filter by division and commodity,
 and view trend analysis directly in your browser.
 
@@ -11,12 +11,12 @@ and view trend analysis directly in your browser.
 📥 **[Download Power BI Dashboard](Kenya_CPI_Inflation_Dashboard.pbix)**
 
 5-page Power BI dashboard for offline exploration.
-*Requires Power BI Desktop — free at powerbi.microsoft.com*
+*Requires Power BI Desktop free at powerbi.microsoft.com*
 # 🇰🇪 Kenya Consumer Price Index (CPI) & Inflation Analysis
 ## March 2025 – March 2026
 
 **Analyst:** Felix Beru Tsinzole | Financial & Data Analyst | Nairobi, Kenya  
-**Data Source:** Kenya National Bureau of Statistics (KNBS) — CPI Report March 2026  
+**Data Source:** Kenya National Bureau of Statistics (KNBS)  CPI Report March 2026  
 **Tools:** Python • Pandas • Matplotlib • Google Colab • GitHub
 
 ---
@@ -28,7 +28,7 @@ Consumer Price Index (CPI) and inflation trends for the period
 March 2025 to March 2026, using official data published by the
 Kenya National Bureau of Statistics (KNBS).
 
-The analysis is structured as a professional financial research report —
+The analysis is structured as a professional financial research report
 moving from raw data through cleaning, analysis and visualization
 to actionable business insights.
 
@@ -37,7 +37,7 @@ to actionable business insights.
 ## The Headline Finding
 
 > *Food and Non-Alcoholic Beverages alone contributes **2.53 percentage points**
-> to Kenya's overall 4.4% inflation rate — accounting for **62.6% of total inflation**
+> to Kenya's overall 4.4% inflation rate accounting for **62.6% of total inflation**
 > despite being just one of 13 expenditure divisions.*
 
 ---
@@ -49,8 +49,8 @@ to actionable business insights.
 - Monthly change (March/February 2026): **0.5%**
 
 ### 2. Core vs Non-Core Divergence
-- Core inflation (March 2026): **2.1%** — stable and low
-- Non-core inflation (March 2026): **10.8%** — high and persistent
+- Core inflation (March 2026): **2.1%** stable and low
+- Non-core inflation (March 2026): **10.8%** high and persistent
 - Divergence gap: **8.7 percentage points**
 - Peak non-core inflation: **11.2%** in December 2025
 
@@ -92,32 +92,32 @@ to actionable business insights.
 
 ## Visualizations
 
-### Chart 1 — Inflation by Division
+### Chart 1 Inflation by Division
 ![CPI Divisions](kenya_cpi_divisions_chart.png)
 
-### Chart 2 — Commodity Price Movement
+### Chart 2 Commodity Price Movement
 ![Commodity Prices](kenya_cpi_commodities_chart.png)
 
-### Chart 3 — Core vs Non-Core Inflation Trend
+### Chart 3 Core vs Non-Core Inflation Trend
 ![Core vs Non-Core](kenya_cpi_core_noncore_chart.png)
 
-### Chart 4 — Weighted Contribution Analysis
+### Chart 4 Weighted Contribution Analysis
 ![Weighted Impact](kenya_cpi_weighted_chart.png)
 
 ---
 
 ## Business Implications
 
-For businesses operating in rural Kenya — particularly those
+For businesses operating in rural Kenya particularly those
 with loan-to-own models serving low-income households:
 
-1. **Collections risk** — rising food costs reduce household
+1. **Collections risk** rising food costs reduce household
    disposable income available for loan repayments
-2. **Value proposition strengthens** — as energy costs rise,
+2. **Value proposition strengthens** as energy costs rise,
    affordable solar alternatives become more attractive
-3. **Pricing sensitivity** — rural consumers are more price
+3. **Pricing sensitivity** rural consumers are more price
    sensitive than ever
-4. **Opportunity** — counties where food inflation is highest
+4. **Opportunity** counties where food inflation is highest
    represent the strongest market opportunity for cost-saving products
 
 ---
@@ -127,7 +127,7 @@ with loan-to-own models serving low-income households:
 Weighted contributions calculated using:
 **Weighted Contribution = (Division Weight / 100) × Annual Inflation Rate**
 
-Total weighted contribution of 4.05 pp vs reported 4.4% —
+Total weighted contribution of 4.05 pp vs reported 4.4%
 0.35 pp rounding difference attributable to KNBS index
 calculation methodology.
 
@@ -158,10 +158,10 @@ A fully interactive 5-page Power BI dashboard covering:
 - Core vs Non-Core Trend — 13 month analysis
 - Weighted Impact — contribution analysis
 
-*Requires Power BI Desktop to open — free download at powerbi.microsoft.com*
+*Requires Power BI Desktop to open  free download at powerbi.microsoft.com*
 
 ### Streamlit Web Dashboard
-🌐 **Coming soon — live interactive web app**
+🌐 **Coming soon  live interactive web app**
 
 ## Author
 **Felix Beru Tsinzole** | Financial & Data Analyst | Nairobi, Kenya
